@@ -4,7 +4,7 @@ CAD-Dateien der von mir erstellten Teile und der Code, der auf dem Arduino Nano 
 Im Rahmen des P-Seminars Physik am ITG 2020-22 mit dem Thema Klimawandel
 
 Wir wollten ein Windradmodell bauen und an diesem verschiedene Messungen durchführen. Als Zusatzfunktion sollte es noch der Windrichtung folgen,
-was durch einen Schrittmotor (NEMA 17-03 mit 20Nm und 0,2A) in der Basis des Windrads und einen Zweipunktregler möglich wurde. Zur Ansteuerung wird ein A4998 Treiber verwendet.
+was durch einen Schrittmotor (NEMA 17-03 mit 20Nm und 0,2A) in der Basis des Windrads und einen Zweipunktregler möglich wurde. Zur Ansteuerung wird ein A4988 Treiber verwendet.
 Der Microcontroller ist ein Arduino Nano, der als Interface einen Drehenkoder (KY-040) und Kippschalter hat. So kann auch die Regelungsgeschwindigkeit für den Zweipunktregler
 eingestellt werden. Informationen können auf einem 16x2 LCD-Bildschirm abgelesen werden, der über I2c (mit I2c Bus) mit dem Microcontroller kommuniziert. 
 Ein generisches Gleichstromnetzteil dient als Stromversorgung.
