@@ -1,5 +1,5 @@
 # Windradmodell_P-Seminar
-CAD-Dateien der von mir erstellten Teile und der Code, der auf dem Arduino UNO läuft. Außerdem noch die source-Dateien für die Platine, die ich für dieses Projekt gemacht habe
+CAD-Dateien der von mir erstellten Teile und der Code, der auf dem Arduino Nano läuft. Außerdem noch die source-Dateien für die Platine, die ich für dieses Projekt gemacht habe
 
 Im Rahmen des P-Seminars Physik am ITG 2020-22 mit dem Thema Klimawandel
 
